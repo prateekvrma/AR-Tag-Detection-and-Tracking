@@ -18,12 +18,16 @@ python "filename".py
 Example: --------------------------------------------------------------------------------------------------
 
 Prob1A.py
+
 Prob1B_video.py
+
 Prob1B_tag.py
+
 Prob2A_Testudo.py
+
 Prob2B_Cube.py
 
-4. Next check output in the corresponding folder.
+5. Next check output in the corresponding folder.
 
 
 Input Video: 
